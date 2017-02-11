@@ -36,7 +36,7 @@ body {
 }
 
 .ba-hero {
-    background: url("../img/backgr.jpg")  no-repeat;
+    background: url("../img/background.png")  no-repeat;
     background-size: cover;
     height: 650px;
     padding-top: 36px;
